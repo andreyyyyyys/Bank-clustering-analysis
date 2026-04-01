@@ -22,8 +22,8 @@
 
 - **Источник:** `bank_transactions_data_2.csv` 
 - **Транзакции:** 2 513
-- **Клиенты:** 500
-- **Период:** 2023-01-02 — 2024-01-01
+- **Клиенты:** 495
+- **Период:** с 2023-01-02 по 2024-01-01
 
 *Данные можно скачать по [ссылке](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection)*
 
