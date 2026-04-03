@@ -1,0 +1,47 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Данные (CSV, Excel, etc.)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Другое
+*.bak
+*.tmp
